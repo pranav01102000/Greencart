@@ -30,7 +30,7 @@ await connectClodinary();
 
 //5.
 //Allow multiple origins
-const allowedOrigin = ["http://localhost:5175"];
+const allowedOrigin = ["*"];
 
 //4.
 //Middleware configuration
